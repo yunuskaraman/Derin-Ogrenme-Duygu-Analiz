@@ -1,1 +1,1 @@
-# LSTM-Duygu-Analiz
+# LSTM-Word2vec-Türkçe-Duygu-Analiz
